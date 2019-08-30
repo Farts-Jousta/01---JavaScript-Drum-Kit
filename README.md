@@ -1,6 +1,6 @@
 # JavaScript-Drum-Kit
 
-### A key-toggled soundboard of varios drum sounds
+### A key-toggled soundboard of various drum sounds
 
 ---
 
