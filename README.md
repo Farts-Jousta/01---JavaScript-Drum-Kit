@@ -32,10 +32,12 @@ Additionaly, it doesn't have to be attatched to a window, but anything in the ht
 
 ClassList is used when ultimately changing the element we found with QuerySelector, and was used in this instance to add and remove a class the the "keys" divs in the html, to change the keys to and from their alternating state, giving instantanious feedback to the users actions.
 
-`element.classList.[add/remove]('[class]')`
+`[element].classList.[add/remove]('[class]')`
 
 ## Review
 
 Overall the project is brought to a satasfactory completion, with the javascript functioning as intended.
 
 Possibilities for improvement include fitting the keys to a smaller screen, perhaps a phone, and patching the bug that causes a sound to be repeated at rapid speed when a putton is held down.
+
+An additional feature would be to change the drum sounds to be replaced with mario noises that would be more fitting to the playful nature of the site.
